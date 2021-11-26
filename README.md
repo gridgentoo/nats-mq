@@ -1,3 +1,9 @@
+# Мост между NATS streaming и MQ Series
+
+Оригинальный репозиторий  
+https://github.com/nats-io/nats-mq.  
+
+
 # NATS-MQ Bridge
 
 This project implements a simple, but generic, bridge between NATS or NATS streaming and MQ Series queues and topics.
