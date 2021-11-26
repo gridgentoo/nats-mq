@@ -1,7 +1,7 @@
 # Мост между NATS streaming и MQ Series
 
 Оригинальный репозиторий  
-https://github.com/nats-io/nats-mq.  
+https://github.com/nats-io/nats-mq
 
 
 # NATS-MQ Bridge
